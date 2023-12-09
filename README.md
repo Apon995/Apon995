@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apon995&label=Profile%20views&color=0e75b6&style=flat" alt="apon995" /> </p>
 
-<img src="./Images/image.png" alt="shofikul islam parvez" align="center">
+<img width="100%" src="./Images/image.png" alt="shofikul islam parvez" align="center">
+
+
+
+<h3 align="left">General info :</h3>
 
 - 👨‍💻 All of my projects are available at [https://apon995.github.io/Personal-portfolio/](https://apon995.github.io/Personal-portfolio/)
 
@@ -8,7 +12,7 @@
 
 - 📫 How to reach me **shofikulsamz995@gmail.com**
 
-<h2>My visons & Target's :</h2>
+<h3 align="left">My visons & Target's :</h3>
 <p>
 In the next 5 years I would like to see myself as a full stack web developer, in sha allah
 </p>
