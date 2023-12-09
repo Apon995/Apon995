@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shofikul islam parvez</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- <h1 align="center">Hi 👋, I'm Shofikul islam parvez</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3> -->
 
-<h4>My visons & Target's :</h4>
-<p>
-In the next 5 years I would like to see myself as a full stack web developer, in sha allah
-</p>
+
+<img src="./Images/image.png" alt="shofikul islam parvez">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apon995&label=Profile%20views&color=0e75b6&style=flat" alt="apon995" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://apon995.github.io/Personal-portfolio/](https://apon995.github.io/Personal-portfolio/)
@@ -12,6 +11,13 @@ In the next 5 years I would like to see myself as a full stack web developer, in
 - 💬 Ask me about **react , firebase , tailwind , mongodb**
 
 - 📫 How to reach me **shofikulsamz995@gmail.com**
+
+
+
+<h4>My visons & Target's :</h4>
+<p>
+In the next 5 years I would like to see myself as a full stack web developer, in sha allah
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +32,9 @@ In the next 5 years I would like to see myself as a full stack web developer, in
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apon995&show_icons=true&locale=en&layout=compact" alt="apon995" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apon995&show_icons=true&locale=en" alt="apon995" /></p>
+
+
+
+
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Apon995&theme=dark" alt="GitHub Streak" /></a>
