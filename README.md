@@ -6,7 +6,6 @@
 
 <h3 align="left">General info :</h3>
 
-- 👨‍💻 All of my projects are available at [https://apon995.github.io/Personal-portfolio/](https://apon995.github.io/Personal-portfolio/)
 
 - 💬 Ask me about **react , firebase , tailwind , mongodb**
 
